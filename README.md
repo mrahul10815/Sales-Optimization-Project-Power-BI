@@ -1,4 +1,4 @@
-# Sales-Optimization-Project-Power-BI
+Sales-Optimization-Project-Power-BI
 
 Excited to share my recent project on Power BI, focused on optimizing sales strategies for a superstore through advanced data analysis techniques!
 
